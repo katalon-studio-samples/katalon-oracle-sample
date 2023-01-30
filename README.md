@@ -4,7 +4,7 @@ This project demonstrates how Katalon Studio helps users to automate Oracle Web 
 
 # Requirements
 
-* Katalon Studio
+* [Katalon Studio][KS]
 * Oracle Account
 
 # Use case
@@ -38,6 +38,7 @@ This project demonstrates how Katalon Studio helps users to automate Oracle Web 
 
 * Verify the test result.
 
-Thanks..
 
 Script Repository: https://github.com/katalon-studio-samples/katalon-oracle-sample.git
+
+[KS]: <https://docs.katalon.com/docs/get-started/katalon-studio-installation/install-katalon-studio-on-macoswindows#download-katalon-studio> "Katalon Studio"
