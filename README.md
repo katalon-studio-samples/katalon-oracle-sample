@@ -28,10 +28,6 @@ This project demonstrates how Katalon Studio helps users to automate Oracle Web 
 
 * Verify the test result.
 
-**After Recording a test case if execution is failing because of "Element not interactable" exception then please change keyword "Click" to "Enhanced Click"**
-
-* ![image](https://user-images.githubusercontent.com/84115288/214219707-cee7a5cd-d1f3-4ac5-a2a2-009667e4d598.png)
-
 **How to run this sample project**
 
 * Update the application URL, Username, and Password inside the Default Profile.
