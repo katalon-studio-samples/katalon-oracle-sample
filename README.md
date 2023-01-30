@@ -19,7 +19,6 @@ This project demonstrates how Katalon Studio helps users to automate Oracle Web 
 
 ![image](https://user-images.githubusercontent.com/84115288/214218084-b99e47c5-be63-49ad-89c2-fb4bcbcebb83.png)
 
-
 * Record test script via Katalon Recorder.
 
 * Save test objects and test cases.
@@ -32,7 +31,8 @@ This project demonstrates how Katalon Studio helps users to automate Oracle Web 
 
 * Update the application URL, Username, and Password inside the Default Profile.
 
-<img width="818" alt="Katalon profile view" src="https://user-images.githubusercontent.com/1128/214109634-f63eebd2-4433-4c4a-9d9a-dcc89b10df34.png">
+![image](https://user-images.githubusercontent.com/84115288/215404496-f0fe113c-de47-4a38-82a0-95926183ff54.png)
+
 
 * Run the test on the browser.
 
