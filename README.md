@@ -39,7 +39,8 @@ This project demonstrates how Katalon Studio helps users to automate Oracle Web 
 * Verify the test execution result. [Here][6]
 
 
-**Repository for the [Sample Project][SP]:**
+
+**Repository for the [Sample Project][SP].**
 
 [SP]: <https://github.com/katalon-studio-samples/katalon-oracle-sample.git> "Sample Project"
 
