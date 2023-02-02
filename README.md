@@ -40,11 +40,6 @@ This project demonstrates how Katalon Studio helps users to automate Oracle Web 
 
 
 
-**Repository for the [Sample Project][SP].**
-
-[SP]: <https://github.com/katalon-studio-samples/katalon-oracle-sample.git> "Sample Project"
-
-
 [KS]: <https://docs.katalon.com/docs/get-started/katalon-studio-installation/install-katalon-studio-on-macoswindows#download-katalon-studio> "Katalon Studio"
 [1]: <https://docs.katalon.com/docs/maintain/self-healing-tests-in-katalon-studio#configure-test-design> "Here"
 [3]: <https://docs.katalon.com/docs/author/record-and-spy/webui-record-and-spy-utilities/record-web-utility-in-katalon-studio#record-a-new-test-case> "Here"
